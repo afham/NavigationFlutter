@@ -13,7 +13,7 @@ class CategoryMealsScreen extends StatelessWidget {
         title: Text(categoryTitle.toString()),
       ),
       body: Center(
-        child:Text("recipes of ${categoryTitle.toString()}")
+        child:Text("recipes ooof the ${categoryTitle.toString()}")
       ),
     );
   }
